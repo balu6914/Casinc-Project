@@ -1,8 +1,8 @@
-# **🎲 Casino Game System Design**
+# **🎲 Casino Game Existing System Design**
 
-## **1️⃣ System Overview**
+## ** System Overview**
 
-The project is an **online casino game** that includes **roulette** and potentially other gambling games. It follows a **provably fair system**, ensuring transparency in bet outcomes using cryptographic methods. The system involves:
+Existing system involves:
 
 - **User Authentication & Session Management**
 - **Live Betting & Gambling Mechanics**
@@ -10,7 +10,7 @@ The project is an **online casino game** that includes **roulette** and potentia
 - **Chat System for User Interaction**
 - **Game Fairness Mechanism using Hash Functions**
 
-## **2️⃣ High-Level Architecture**
+## **High-Level Architecture**
 
 ### **🖥️ Tech Stack**
 
@@ -24,7 +24,7 @@ The project is an **online casino game** that includes **roulette** and potentia
 | **Hosting**                | AWS (EC2, RDS, S3, Lambda) / DigitalOcean               |
 | **Authentication**         | OAuth, JWT (JSON Web Tokens)                            |
 
-## **3️⃣ System Components**
+## **System Components**
 
 ### **1. User Management**
 
